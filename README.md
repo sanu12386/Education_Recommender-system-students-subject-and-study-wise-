@@ -1,5 +1,5 @@
 # Note Please:
-Before using any other file you have to run the Studend recommendation notebook to get model.pkl and scaler.pkl.
+Before using any other file you have to run the Student recommendation notebook to get model.pkl and scaler.pkl.
 
 # Dataset Description:
 
